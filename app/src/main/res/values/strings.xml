@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">stroyApp-angcassa</string>
+    <string name="app_auth">Laman Autentikasi</string>
+    <string name="app_Dashboard">Laman Cerita</string>
+    <string name="app_detail">Laman Detail Cerita</string>
+    <string name="app_upload">Laman Unggah Cerita</string>
+    <string name="loginQ">Sudah punya akun ?</string>
+    <string name="regQ">Belum punya akun ?</string>
+    <string name="login">Masuk</string>
+    <string name="reg">Daftar</string>
+    <string name="mail">Email@Example.com</string>
+    <string name="pass">Kata sandi</string>
+    <string name="storyImg">Gambar Cerita</string>
+    <string name="tambah">Tambah Cerita</string>
+    <string name="desc">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="auth">Autentikasi</string>
+    <string name="camera">Ambil gambar</string>
+    <string name="gallery">Pilih Gambar</string>
+    <string name="error">Silahkan check koneksi anda</string>
+    <string name="err_Img">Belum memilih gambar untuk diupload</string>
+    <string name="err_Upload">Gagal upload cerita</string>
+    <string name="err_Login">Login Gagal</string>
+    <string name="err_Location">Pastikan GPS atau Maps service sudah aktif</string>
+    <string name="err_reg">Registrasi Gagal</string>
+    <string name="sc_reg">Registrasi Berhasil</string>
+    <string name="close">Tekan sekali lagi untuk keluar</string>
+    <string name="out">Keluar</string>
+    <string name="title_activity_maps">Lihat Map</string>
+    <string name="appwidget_text">Cerita terbaru</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+</resources>

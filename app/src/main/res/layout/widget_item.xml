@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:backgroundTint="@color/white">
+
+    <ImageView
+        android:id="@+id/Img_widget"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:srcCompat="@drawable/image_dicoding"
+        android:contentDescription="@string/storyImg" />
+    <TextView
+        android:id="@+id/tvWUser"
+        android:background="@drawable/shape_story_footer"
+        android:text="@string/app_name"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:padding="8dp"
+        android:layout_height="36dp"/>
+</LinearLayout>

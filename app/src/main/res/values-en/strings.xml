@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">stroyApp-angcassa</string>
+    <string name="app_auth">Authentication page</string>
+    <string name="app_Dashboard">Story page</string>
+    <string name="app_detail">Detail page</string>
+    <string name="app_upload">Upload page</string>
+    <string name="loginQ">Have an account already ?</string>
+    <string name="regQ">Dont have an account ?</string>
+    <string name="login">Login</string>
+    <string name="reg">Register</string>
+    <string name="mail">Email@Example.com</string>
+    <string name="pass">Password</string>
+    <string name="storyImg">Story Image</string>
+    <string name="tambah">Create story</string>
+    <string name="desc">Description</string>
+    <string name="upload">Upload</string>
+    <string name="auth">Authentication</string>
+    <string name="camera">Take a photo</string>
+    <string name="gallery">Choose a photo</string>
+    <string name="error">Check your connection</string>
+    <string name="err_Img">Did not select an image to upload</string>
+    <string name="err_Upload">Failed to upload the story</string>
+    <string name="err_Login">Login failed</string>
+    <string name="err_Location">Make sure GPS or Maps service activated</string>
+    <string name="err_reg">Registration failed</string>
+    <string name="sc_reg">Registration success</string>
+    <string name="close">Press it one more to close</string>
+    <string name="out">Logout</string>
+    <string name="title_activity_maps">See Map</string>
+    <string name="appwidget_text">Newest Story</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+
+</resources>

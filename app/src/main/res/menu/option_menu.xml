@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item
+        android:id="@+id/btAdd"
+        android:title="@string/tambah"
+        android:icon = "@drawable/ic_baseline_add_box_24"
+        app:showAsAction="ifRoom" />
+        <item
+        android:id="@+id/btMaps"
+        android:title="@string/title_activity_maps"
+        android:icon = "@drawable/ic_baseline_location_24"
+        app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/btLogout"
+            android:title="@string/out"
+            android:icon = "@drawable/ic_baseline_highlight_off_24"
+            app:showAsAction="ifRoom" />
+
+    </group>
+
+</menu>
